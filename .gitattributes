@@ -1,3 +1,2 @@
 *.odt filter=lfs diff=lfs merge=lfs -text
 *.docx filter=lfs diff=lfs merge=lfs -text
-*.odt# filter=lfs diff=lfs merge=lfs -text
